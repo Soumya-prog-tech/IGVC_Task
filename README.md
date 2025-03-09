@@ -79,6 +79,6 @@ __Final Outputs__ :
 
 ![alt text](./Question_2/images/yellow_mask.png)
 
-For the steps i have followed u can refer to jupyter notebook i have mentioned the techniques i have used to get the final outputs
+For the steps I have followed U may refer to jupyter notebook I have mentioned the techniques I have used to get the final outputs..
 
 
